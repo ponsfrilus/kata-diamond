@@ -90,6 +90,9 @@ dans le même genre, n'hésitez pas à les faire aussi !
 
 ## Je l'ai fait 💪
 
+* La version de [@Azecko](https://github.com/Azecko), réalisée lors du 
+  [dojo EPFL](https://github.com/epfl-dojo/) a été faite en `Python` et est 
+  disponible [ici](https://github.com/Azecko/kata-diamond).
 * La version de [@octocat](https://github.com/octocat) a été faite en `langage`
   et est disponible [ici](https://#).
 
